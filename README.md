@@ -9,10 +9,10 @@
          width="40" height="40" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/pedro-bruch-2252ab267" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
-         width="40" height="40" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/pedro-bruch-2252ab267/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
+       width="40" height="40" alt="LinkedIn"/>
+</a>
 </p>
 
   <h1>Olá! Eu me chamo Pedro.</h1>
