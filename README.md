@@ -10,9 +10,9 @@
 
 ## Habilidades
 <p align="center">
-  <img src="https://wikimedia.org" width="45" height="45" alt="Python" />
-  &nbsp;&nbsp;
-  <img src="https://wikimedia.org" width="45" height="45" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
 </p>
 
 </div>
