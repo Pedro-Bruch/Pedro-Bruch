@@ -1,8 +1,18 @@
-# Welcome to my perfil in github 👋
-Weg aprendiz cybersistems for automation
+<div align="center">
 
-## Habilidades:
-<p align="left">
-  <img src="https://jsdelivr.net" width="40" height="40" alt="Python" />
-  <img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" />
+<!-- Logotipo da WEG centralizado -->
+<img src="https://wikimedia.org" width="200" alt="WEG Logo" />
+
+# Welcome to my GitHub profile 👋
+### WEG Aprendiz – Cyber-physical Systems for Automation
+
+---
+
+## Habilidades
+<p align="center">
+  <img src="https://jsdelivr.net" width="45" height="45" alt="Python" />
+  &nbsp;
+  <img src="https://jsdelivr.net" width="45" height="45" alt="HTML5" />
 </p>
+
+</div>
